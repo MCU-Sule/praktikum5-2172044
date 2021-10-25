@@ -1,0 +1,62 @@
+body{
+    background-image: url("background.jpg");
+    background-position: right top;
+   font-family: "Nunito", sans-serif;
+ }
+ 
+ h3{ 
+     color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    letter-spacing: 5pt;
+ 
+ }
+ .kotak{
+     width: 500px;
+     height: 600px;
+     background-color:rgba(178, 190, 195,0.8);
+    margin: auto;
+   padding: 25px;
+ }
+.fullname{
+width: 100%;
+margin: auto;
+
+}
+.email{
+    width: 100%;
+    margin: auto;
+}
+.age{
+    width: 100%;
+    margin: auto
+}
+.gender{
+    width:100% ;
+    margin: auto
+   
+    
+}
+
+.birth{width: 100%;
+
+    margin: auto
+}
+.kartu{
+    width:100%;
+    margin: auto
+}
+
+.laptop{
+ width: 100%;
+ margin: auto
+}
+
+.submit{
+    background-color: green;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+
+
